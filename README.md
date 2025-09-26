@@ -1,4 +1,4 @@
-# 💳 Banking Analytics Dashboard: Customers, Credit & Fraud
+# 💳 Banking Analytics Dashboard
 
 This project analyzes customer activity, credit usage, fraud risk, and operations using a synthetic banking dataset. It combines SQL Server, Python, and Power BI to give clear, actionable insights.
 
