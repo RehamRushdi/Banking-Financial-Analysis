@@ -44,10 +44,6 @@ This project analyzes customer activity, credit usage, fraud risk, and operation
 
 ## 📸 Dashboard
 
-- **Overview:** Active vs inactive customers, credit utilization, total debt, fraud loss trends.  
-- **Fraud:** Fraud by region, merchant category, and timeline.  
-- **Segmentation:** Debt and spending by income, age, and credit score.  
-
 ![Power BI Dashboard](Visuals/Financial-Instant_page-0001.jpg)
 ![Power BI Dashboard](Visuals/Financial-Instant_page-0002.jpg)
 ![Power BI Dashboard](Visuals/Financial-Instant_page-0003.jpg)
