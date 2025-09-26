@@ -16,7 +16,7 @@ This project analyzes customer activity, credit usage, fraud risk, and operation
 
 ## 🗂️ Data
 
-- **Source:**[kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+- **Source:** [kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 - **Transactions:** Amounts, timestamps, merchant details.
 - **Cards:** Credit/debit limits, activation dates.
 - **Fraud Labels:** Fraud vs. legitimate transactions.
