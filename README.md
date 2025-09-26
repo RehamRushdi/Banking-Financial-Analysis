@@ -26,10 +26,10 @@ This project analyzes customer activity, credit usage, fraud risk, and operation
 
 ## 🛠️ Tools
 
-- **SQL Server** – Data storage & integration  
-- **Python** – Cleaning & analysis  
-- **Power BI** – Dashboards & DAX measures  
-- **Jupyter Notebook** – Data exploration  
+- **SQL Server:** Data storage & integration  
+- **Python:** Cleaning & analysis  
+- **Power BI:** Dashboards & DAX measures  
+- **Jupyter Notebook:** – Data exploration  
 
 ---
 
@@ -38,7 +38,7 @@ This project analyzes customer activity, credit usage, fraud risk, and operation
 - Most spending from ages 45–54 and 65+.  
 - Middle-income groups hold the highest total debt.  
 - Fraud at 0.3% of transactions, mainly retail stores & East region.  
-- Operational errors rising slightly — opportunity to improve processes.  
+- Operational errors rising slightly, opportunity to improve processes.  
 - East & South regions dominate debt and transaction values.  
 
 ---
