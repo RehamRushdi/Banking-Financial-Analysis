@@ -1,4 +1,4 @@
-# 💳 Banking Analytics Dashboard [kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+# 💳 Banking Analytics Dashboard
 
 This project analyzes customer activity, credit usage, fraud risk, and operations using a synthetic banking dataset. It combines SQL Server, Python, and Power BI to give clear, actionable insights.
 
@@ -16,6 +16,7 @@ This project analyzes customer activity, credit usage, fraud risk, and operation
 
 ## 🗂️ Data
 
+- **Source:**[kaggle](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 - **Transactions:** Amounts, timestamps, merchant details.
 - **Cards:** Credit/debit limits, activation dates.
 - **Fraud Labels:** Fraud vs. legitimate transactions.
